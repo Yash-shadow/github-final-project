@@ -1,5 +1,5 @@
 # github-final-project
-#Course era hands on assigment
+#Coursera hands on assigment
 
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
